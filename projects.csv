@@ -1,0 +1,501 @@
+project_id,department_id,project_name,budget,start_date,end_date,status
+1,119,monetize bricks-and-clicks web-readiness,278502,2025-01-28,2026-01-28,cancelled
+2,17,matrix virtual experiences,795750,2023-03-18,2026-02-14,in progress
+3,26,benchmark compelling paradigms,525219,2023-08-21,2025-05-26,cancelled
+4,156,enhance user-centric channels,525696,2025-02-26,2026-01-26,in progress
+5,124,revolutionize compelling e-services,885188,2023-11-18,2025-07-21,completed
+6,124,deliver killer partnerships,478001,2024-10-22,2025-11-06,in progress
+7,140,deliver e-business interfaces,229533,2024-08-11,2026-02-23,cancelled
+8,53,grow magnetic niches,415180,2023-09-30,2025-09-20,cancelled
+9,88,streamline magnetic web services,971136,2024-10-07,2025-05-21,cancelled
+10,178,harness global niches,182827,2024-12-19,2025-05-02,in progress
+11,52,aggregate synergistic metrics,401160,2025-02-14,2025-06-29,in progress
+12,174,incubate impactful info-mediaries,571854,2024-03-22,2025-12-27,completed
+13,126,matrix killer architectures,532269,2024-05-19,2025-04-11,completed
+14,107,reinvent open-source deliverables,927518,2023-03-24,2025-08-20,completed
+15,148,seize robust architectures,593572,2023-05-01,2025-12-06,in progress
+16,103,harness sticky functionalities,79129,2023-06-11,2025-03-14,in progress
+17,51,grow bleeding-edge relationships,222807,2024-11-27,2025-06-22,cancelled
+18,7,utilize next-generation content,821701,2024-06-08,2025-06-17,in progress
+19,138,expedite bricks-and-clicks synergies,612835,2023-03-15,2025-10-31,in progress
+20,199,envisioneer holistic e-tailers,30495,2025-01-07,2025-09-08,cancelled
+21,187,deliver next-generation e-markets,48277,2023-10-30,2025-06-04,completed
+22,12,enable enterprise e-markets,127638,2025-01-29,2025-12-11,completed
+23,108,synergize B2B web-readiness,199874,2023-07-05,2025-10-09,in progress
+24,94,synergize virtual convergence,18305,2023-12-10,2025-09-01,cancelled
+25,117,leverage real-time deliverables,66156,2025-01-16,2025-06-29,cancelled
+26,1,maximize clicks-and-mortar info-mediaries,704950,2023-03-17,2026-02-12,in progress
+27,33,whiteboard plug-and-play ROI,618122,2024-11-30,2025-07-31,cancelled
+28,77,re-contextualize visionary info-mediaries,359360,2023-09-06,2025-04-26,in progress
+29,32,maximize robust vortals,756997,2023-03-22,2025-03-15,in progress
+30,53,synthesize dot-com e-business,829163,2023-06-10,2025-04-14,completed
+31,115,re-contextualize proactive users,68980,2023-09-24,2025-04-17,in progress
+32,144,re-contextualize strategic markets,741057,2024-02-01,2025-10-16,completed
+33,66,seize magnetic interfaces,463987,2023-04-13,2025-06-17,cancelled
+34,118,expedite impactful relationships,277915,2024-06-18,2026-01-24,cancelled
+35,199,innovate dynamic supply-chains,159406,2025-02-14,2025-07-12,completed
+36,21,revolutionize cross-platform infrastructures,139454,2024-08-01,2026-02-20,completed
+37,39,exploit robust web-readiness,626534,2025-02-25,2025-10-09,cancelled
+38,114,disintermediate mission-critical interfaces,237329,2023-05-15,2025-07-17,completed
+39,25,generate vertical web-readiness,355574,2025-01-16,2025-06-23,in progress
+40,123,drive cross-platform e-business,692347,2025-01-18,2026-02-18,cancelled
+41,106,extend vertical niches,654507,2025-03-06,2025-07-12,completed
+42,195,facilitate synergistic eyeballs,597946,2024-12-26,2025-10-10,completed
+43,123,cultivate interactive niches,96218,2024-05-11,2025-08-30,in progress
+44,64,benchmark 24/365 functionalities,518167,2023-05-21,2025-05-02,in progress
+45,160,embrace user-centric communities,435788,2024-10-29,2025-06-04,completed
+46,80,synergize scalable relationships,666180,2024-10-17,2025-11-17,cancelled
+47,50,disintermediate one-to-one architectures,176700,2023-04-10,2025-08-18,cancelled
+48,113,transform B2B metrics,714263,2024-03-24,2025-09-11,in progress
+49,180,monetize compelling platforms,787411,2023-06-07,2026-03-11,completed
+50,128,embrace magnetic deliverables,595445,2023-04-13,2025-12-18,in progress
+51,18,cultivate transparent networks,272017,2025-03-09,2025-12-31,cancelled
+52,170,brand transparent supply-chains,916832,2024-07-19,2025-09-01,cancelled
+53,39,engage mission-critical content,855526,2023-08-05,2025-04-26,cancelled
+54,29,re-contextualize strategic metrics,385210,2023-10-16,2025-11-02,cancelled
+55,191,cultivate sticky architectures,360074,2023-08-19,2025-05-23,cancelled
+56,161,evolve magnetic action-items,953881,2024-10-17,2025-11-05,in progress
+57,116,synergize bricks-and-clicks convergence,425878,2024-07-09,2025-05-16,in progress
+58,159,matrix integrated convergence,669003,2023-11-13,2025-08-31,in progress
+59,58,generate global supply-chains,310752,2024-09-12,2025-07-23,completed
+60,195,revolutionize rich initiatives,411555,2024-09-11,2025-03-15,completed
+61,121,re-contextualize cross-media channels,924666,2024-08-26,2025-11-03,completed
+62,145,enhance leading-edge functionalities,262592,2023-04-01,2025-05-25,cancelled
+63,65,implement world-class infrastructures,999354,2024-03-03,2025-12-15,completed
+64,85,aggregate cutting-edge networks,273451,2024-03-23,2025-11-03,in progress
+65,163,seize bleeding-edge supply-chains,568675,2023-04-29,2025-09-20,cancelled
+66,53,redefine cross-platform mindshare,686367,2023-11-04,2026-02-04,completed
+67,68,productize next-generation bandwidth,792163,2025-01-05,2025-12-26,in progress
+68,119,architect front-end communities,867698,2023-10-08,2025-09-01,cancelled
+69,97,synergize front-end deliverables,499725,2024-08-18,2025-09-03,cancelled
+70,96,orchestrate granular paradigms,315774,2024-03-20,2026-01-12,cancelled
+71,126,unleash visionary initiatives,217467,2025-01-08,2026-02-28,cancelled
+72,142,target extensible e-markets,671077,2023-12-31,2025-03-22,completed
+73,5,engage dynamic web-readiness,976805,2023-06-08,2025-12-24,in progress
+74,138,evolve customized ROI,610111,2025-02-21,2025-11-26,completed
+75,120,integrate enterprise interfaces,290623,2023-08-10,2026-02-04,in progress
+76,76,enhance web-enabled platforms,869919,2024-10-26,2025-06-16,in progress
+77,69,envisioneer dot-com architectures,542755,2024-05-28,2025-04-11,cancelled
+78,49,seize ubiquitous metrics,135388,2024-07-23,2025-05-21,completed
+79,113,disintermediate innovative technologies,346272,2023-07-13,2025-08-05,in progress
+80,187,brand seamless partnerships,885566,2024-02-12,2025-11-16,cancelled
+81,118,architect sticky functionalities,132967,2023-08-09,2025-06-27,in progress
+82,43,utilize magnetic users,415447,2024-12-12,2025-11-05,completed
+83,4,repurpose revolutionary eyeballs,232134,2023-09-16,2026-01-07,in progress
+84,13,innovate plug-and-play deliverables,541440,2023-12-14,2025-07-26,in progress
+85,184,orchestrate frictionless paradigms,318936,2023-04-18,2025-10-01,completed
+86,75,engage 24/365 systems,755314,2023-09-03,2026-01-24,in progress
+87,182,incentivize rich systems,385464,2023-11-22,2025-09-27,in progress
+88,16,envisioneer B2B mindshare,711973,2024-01-31,2025-08-20,in progress
+89,124,transform B2B platforms,395892,2024-11-28,2025-06-05,in progress
+90,10,implement strategic e-markets,443232,2025-01-26,2025-09-27,cancelled
+91,91,synergize front-end schemas,930576,2024-09-26,2026-01-22,completed
+92,131,whiteboard out-of-the-box architectures,919448,2023-09-16,2026-02-16,completed
+93,51,morph one-to-one info-mediaries,820975,2023-07-23,2025-07-27,in progress
+94,190,harness virtual metrics,522062,2024-07-30,2025-04-20,completed
+95,67,cultivate best-of-breed web services,732063,2024-03-20,2025-10-03,completed
+96,196,grow cross-platform metrics,31320,2024-03-29,2026-01-07,cancelled
+97,66,enhance transparent niches,457389,2025-01-26,2026-02-14,completed
+98,177,unleash collaborative interfaces,388876,2024-06-03,2025-05-02,in progress
+99,27,innovate wireless relationships,698816,2023-05-16,2025-10-15,cancelled
+100,187,revolutionize back-end initiatives,444185,2023-05-03,2025-10-02,completed
+101,129,envisioneer dynamic web services,467474,2024-01-08,2025-05-10,completed
+102,41,transition sticky e-tailers,160703,2024-01-15,2025-04-21,completed
+103,62,evolve global architectures,311090,2024-02-25,2025-11-01,cancelled
+104,59,envisioneer 24/7 partnerships,132523,2024-06-30,2025-09-17,in progress
+105,150,brand customized methodologies,891103,2023-04-17,2026-03-02,cancelled
+106,80,scale turn-key bandwidth,284037,2023-06-24,2025-06-05,in progress
+107,135,syndicate B2B niches,178506,2023-06-12,2025-06-20,completed
+108,28,scale leading-edge systems,280968,2023-06-07,2025-11-14,in progress
+109,171,exploit proactive functionalities,242463,2024-05-21,2025-12-11,in progress
+110,128,empower revolutionary methodologies,680375,2023-12-22,2025-11-12,in progress
+111,23,empower web-enabled schemas,643648,2024-11-09,2025-11-03,cancelled
+112,50,visualize rich users,105396,2024-08-04,2025-12-20,completed
+113,128,aggregate wireless supply-chains,491390,2024-09-18,2025-04-20,in progress
+114,143,target cross-media info-mediaries,901576,2023-04-18,2025-07-20,cancelled
+115,17,target user-centric schemas,489787,2023-12-25,2025-07-16,in progress
+116,181,strategize integrated web services,477101,2023-07-07,2026-01-23,cancelled
+117,126,leverage robust partnerships,372898,2023-10-17,2026-01-12,completed
+118,135,synthesize enterprise communities,180406,2023-10-27,2025-10-06,cancelled
+119,43,incentivize rich platforms,489267,2024-01-17,2025-10-21,completed
+120,117,brand real-time e-business,645876,2024-03-11,2025-12-02,completed
+121,71,matrix frictionless metrics,202577,2023-09-20,2025-12-18,cancelled
+122,138,re-intermediate real-time networks,441899,2023-05-18,2025-05-01,completed
+123,184,synergize plug-and-play web services,651524,2023-06-18,2025-06-14,in progress
+124,101,target killer markets,890195,2023-04-10,2025-12-14,completed
+125,152,drive intuitive web-readiness,260484,2024-11-11,2026-01-19,completed
+126,82,transform scalable initiatives,818599,2023-11-20,2025-04-14,in progress
+127,141,streamline ubiquitous models,459434,2024-07-26,2025-09-08,in progress
+128,145,extend frictionless platforms,79768,2024-09-29,2025-09-22,cancelled
+129,106,visualize viral methodologies,874372,2023-10-09,2025-10-15,completed
+130,78,disintermediate front-end users,886971,2023-07-13,2025-03-19,cancelled
+131,58,e-enable leading-edge deliverables,950007,2023-04-11,2025-12-05,in progress
+132,126,strategize best-of-breed e-business,184792,2023-04-16,2025-12-22,in progress
+133,73,aggregate cutting-edge mindshare,166279,2024-01-01,2025-06-28,in progress
+134,163,enable interactive infrastructures,42483,2023-12-24,2025-06-25,in progress
+135,63,incentivize intuitive infrastructures,35107,2025-01-14,2025-10-22,cancelled
+136,2,exploit cutting-edge supply-chains,321909,2023-11-21,2025-10-10,cancelled
+137,36,optimize e-business info-mediaries,143007,2023-10-06,2025-08-18,completed
+138,78,optimize strategic initiatives,942249,2024-10-26,2025-10-08,completed
+139,116,transform 24/7 e-tailers,706368,2023-09-19,2025-05-06,cancelled
+140,119,strategize web-enabled channels,47189,2023-05-10,2026-02-19,in progress
+141,104,grow strategic e-tailers,651038,2024-07-21,2025-07-20,cancelled
+142,162,embrace transparent action-items,389304,2023-07-12,2025-10-31,in progress
+143,191,enhance web-enabled web services,948674,2024-11-29,2026-02-13,cancelled
+144,148,whiteboard 24/365 web services,420424,2024-02-08,2025-09-16,in progress
+145,172,generate visionary networks,684216,2024-04-04,2025-08-11,completed
+146,89,revolutionize strategic markets,928927,2024-07-29,2025-05-12,cancelled
+147,3,leverage integrated ROI,452207,2023-04-08,2025-05-05,cancelled
+148,116,unleash scalable architectures,754540,2023-05-25,2026-01-27,completed
+149,134,engage vertical applications,165553,2023-10-05,2025-09-15,cancelled
+150,126,strategize next-generation e-commerce,100587,2023-10-22,2026-02-22,cancelled
+151,59,monetize granular convergence,82037,2024-10-06,2025-03-14,in progress
+152,66,leverage interactive convergence,258356,2023-09-07,2025-06-10,completed
+153,85,envisioneer bricks-and-clicks portals,113046,2025-02-16,2025-09-11,in progress
+154,176,optimize open-source platforms,41118,2023-11-19,2025-12-09,in progress
+155,188,expedite rich e-business,94780,2024-08-17,2025-11-24,cancelled
+156,28,innovate open-source technologies,30478,2023-05-10,2025-11-30,completed
+157,65,mesh compelling e-commerce,855278,2024-06-04,2026-01-20,cancelled
+158,47,redefine value-added functionalities,257150,2023-10-26,2025-12-02,completed
+159,37,e-enable distributed ROI,640179,2025-01-06,2025-11-09,cancelled
+160,72,architect cross-platform deliverables,997742,2024-11-01,2025-10-04,completed
+161,86,transition cutting-edge info-mediaries,840416,2023-10-31,2026-01-03,completed
+162,121,transition back-end e-business,948675,2024-06-26,2026-02-21,completed
+163,56,implement magnetic web-readiness,122853,2023-05-27,2025-09-09,in progress
+164,107,benchmark compelling action-items,205732,2024-02-09,2025-10-22,completed
+165,8,optimize proactive ROI,530335,2023-11-06,2025-10-20,completed
+166,175,reinvent synergistic platforms,75838,2023-09-01,2025-10-20,cancelled
+167,51,re-intermediate back-end markets,125933,2023-12-17,2026-01-03,completed
+168,20,morph dynamic content,147296,2023-05-09,2025-05-03,completed
+169,148,integrate leading-edge e-business,811724,2024-07-31,2025-11-14,cancelled
+170,198,e-enable magnetic action-items,644002,2023-10-03,2025-04-01,cancelled
+171,68,brand scalable web-readiness,846793,2023-11-25,2025-08-16,completed
+172,86,iterate global eyeballs,142630,2024-08-22,2025-05-20,cancelled
+173,44,facilitate wireless experiences,489773,2023-07-07,2025-05-22,in progress
+174,146,synergize integrated architectures,799900,2024-12-25,2025-07-27,in progress
+175,93,generate out-of-the-box systems,96073,2023-07-27,2025-04-08,completed
+176,28,re-contextualize intuitive communities,581705,2024-03-21,2025-10-04,in progress
+177,8,syndicate open-source functionalities,190895,2024-08-04,2025-07-27,completed
+178,144,orchestrate holistic channels,594006,2023-03-19,2025-06-15,cancelled
+179,61,generate real-time ROI,904561,2024-11-17,2026-02-09,completed
+180,61,integrate magnetic web services,404139,2024-08-15,2025-06-27,cancelled
+181,77,scale leading-edge e-markets,606689,2024-11-13,2025-06-10,completed
+182,72,scale distributed markets,523941,2024-10-08,2025-03-22,cancelled
+183,50,productize killer methodologies,890512,2023-07-19,2025-09-12,completed
+184,108,exploit vertical architectures,406928,2024-11-02,2025-05-24,in progress
+185,10,maximize leading-edge web services,210067,2025-03-10,2025-08-18,completed
+186,1,innovate 24/7 markets,611172,2023-08-30,2025-07-05,cancelled
+187,114,transition out-of-the-box web-readiness,240562,2024-01-25,2025-09-21,completed
+188,126,re-contextualize cross-platform users,753725,2025-02-04,2025-09-23,cancelled
+189,130,transform global convergence,794729,2023-05-24,2025-07-14,in progress
+190,86,deploy customized networks,641703,2025-02-18,2025-12-04,cancelled
+191,43,scale extensible e-markets,695663,2024-08-05,2026-02-18,in progress
+192,175,matrix end-to-end bandwidth,829508,2024-02-11,2026-01-31,completed
+193,138,whiteboard end-to-end e-services,691927,2023-06-26,2025-07-09,completed
+194,66,scale robust solutions,742245,2023-08-06,2025-04-25,in progress
+195,88,envisioneer dynamic experiences,285913,2023-12-06,2025-03-21,completed
+196,143,reinvent scalable markets,295500,2023-09-15,2025-08-11,cancelled
+197,85,re-contextualize bricks-and-clicks systems,818762,2024-06-01,2025-03-23,completed
+198,54,monetize customized eyeballs,389669,2023-04-17,2026-02-21,cancelled
+199,137,embrace front-end web services,655451,2025-03-02,2026-02-06,cancelled
+200,31,seize bleeding-edge e-commerce,692148,2023-06-17,2025-07-27,in progress
+201,140,synthesize efficient channels,791876,2024-08-20,2025-04-15,completed
+202,128,synergize B2B partnerships,857721,2023-08-30,2025-04-15,cancelled
+203,56,monetize bricks-and-clicks methodologies,838411,2024-06-07,2025-07-03,in progress
+204,32,extend ubiquitous architectures,878911,2023-06-14,2025-07-28,in progress
+205,103,streamline enterprise synergies,813471,2023-10-30,2025-09-16,completed
+206,136,brand rich architectures,826917,2023-05-21,2025-07-01,in progress
+207,13,re-contextualize holistic relationships,151297,2024-05-10,2025-10-29,in progress
+208,88,morph compelling deliverables,277733,2024-07-01,2025-08-05,cancelled
+209,193,extend wireless experiences,328275,2023-09-14,2025-04-11,in progress
+210,110,facilitate visionary action-items,168103,2023-04-07,2025-05-09,cancelled
+211,65,scale end-to-end portals,453574,2023-10-30,2025-03-28,cancelled
+212,93,enhance B2C methodologies,672180,2024-12-04,2025-11-17,completed
+213,33,expedite magnetic synergies,115616,2023-03-15,2025-11-25,cancelled
+214,156,deploy global experiences,294238,2023-08-23,2025-08-26,cancelled
+215,65,matrix magnetic web-readiness,468580,2023-08-13,2025-04-08,cancelled
+216,78,expedite end-to-end paradigms,745983,2023-04-15,2025-11-27,in progress
+217,46,incentivize out-of-the-box synergies,356730,2023-08-16,2025-09-20,cancelled
+218,6,scale robust communities,110064,2023-11-18,2025-11-15,completed
+219,166,embrace plug-and-play applications,854399,2023-04-12,2025-12-09,in progress
+220,113,morph viral convergence,82591,2024-03-19,2025-12-31,completed
+221,79,expedite transparent experiences,321963,2025-01-26,2026-02-11,in progress
+222,121,cultivate rich niches,936192,2023-09-03,2025-08-26,in progress
+223,184,engineer holistic portals,353380,2024-11-08,2026-01-21,in progress
+224,125,leverage turn-key web-readiness,827800,2025-02-23,2025-06-14,cancelled
+225,56,re-intermediate B2B ROI,717385,2023-12-02,2025-06-01,in progress
+226,198,grow efficient content,218792,2023-05-21,2026-03-01,completed
+227,60,reinvent back-end e-business,524076,2024-06-11,2025-12-28,in progress
+228,135,synthesize vertical e-tailers,361654,2023-08-12,2025-11-13,in progress
+229,147,drive ubiquitous functionalities,390518,2023-11-12,2026-03-02,cancelled
+230,76,brand B2C web-readiness,902115,2025-02-12,2025-09-23,in progress
+231,10,re-intermediate out-of-the-box bandwidth,489623,2024-08-31,2025-09-06,in progress
+232,64,orchestrate seamless partnerships,652635,2024-01-30,2025-11-02,in progress
+233,51,exploit holistic action-items,676004,2023-10-30,2026-03-07,cancelled
+234,10,grow integrated action-items,379324,2023-06-09,2025-12-30,cancelled
+235,146,streamline collaborative systems,865128,2023-12-05,2025-04-06,completed
+236,34,aggregate e-business applications,155902,2023-09-05,2025-03-19,in progress
+237,126,innovate 24/365 architectures,91441,2023-04-23,2025-04-30,in progress
+238,153,empower 24/7 platforms,906502,2024-07-06,2025-08-16,cancelled
+239,168,extend out-of-the-box technologies,86671,2024-01-07,2025-05-24,in progress
+240,137,transition bleeding-edge web-readiness,592581,2024-04-28,2025-09-03,cancelled
+241,80,empower 24/7 applications,205525,2023-06-07,2025-05-31,in progress
+242,32,monetize collaborative solutions,868112,2023-08-19,2026-02-13,cancelled
+243,61,iterate interactive solutions,789037,2024-12-31,2025-10-07,in progress
+244,113,optimize distributed architectures,931204,2023-06-06,2025-10-06,in progress
+245,4,deploy world-class schemas,482969,2024-01-11,2025-03-31,in progress
+246,77,brand global e-commerce,254552,2025-01-06,2025-04-09,in progress
+247,22,mesh B2B networks,372586,2024-08-08,2026-02-09,completed
+248,188,optimize front-end platforms,256083,2024-08-23,2025-07-17,in progress
+249,80,deliver revolutionary platforms,595265,2024-08-12,2025-11-09,completed
+250,176,brand real-time applications,462196,2023-08-30,2026-02-28,in progress
+251,200,monetize rich web-readiness,842416,2024-11-02,2026-02-03,completed
+252,168,enable B2C paradigms,638813,2023-09-17,2026-01-26,in progress
+253,85,utilize back-end initiatives,364062,2023-10-10,2025-03-30,completed
+254,13,harness rich relationships,998413,2023-09-08,2025-03-17,cancelled
+255,171,matrix collaborative partnerships,738150,2023-05-16,2025-03-28,completed
+256,154,strategize innovative content,973195,2025-02-20,2026-03-10,completed
+257,188,deliver 24/365 experiences,956761,2023-08-24,2025-06-25,cancelled
+258,149,aggregate real-time vortals,943143,2024-04-24,2025-06-18,completed
+259,149,synergize integrated deliverables,348300,2023-04-18,2025-03-19,cancelled
+260,162,engineer viral relationships,941338,2023-06-01,2025-05-24,cancelled
+261,155,incentivize efficient mindshare,275548,2023-04-20,2025-11-14,cancelled
+262,84,envisioneer integrated action-items,126127,2025-03-09,2025-09-26,cancelled
+263,163,syndicate ubiquitous convergence,949491,2023-03-20,2025-08-29,cancelled
+264,129,iterate innovative platforms,713096,2024-03-06,2025-04-06,completed
+265,19,streamline next-generation interfaces,298498,2024-12-02,2026-01-05,cancelled
+266,20,incubate intuitive systems,27261,2023-11-03,2025-09-12,in progress
+267,187,enhance granular niches,108901,2023-10-19,2025-04-02,cancelled
+268,131,architect proactive e-tailers,369926,2024-05-23,2026-01-19,completed
+269,127,target viral action-items,936490,2023-05-03,2025-09-28,in progress
+270,187,implement vertical e-services,677771,2024-02-10,2025-10-29,cancelled
+271,50,generate turn-key deliverables,942302,2024-08-09,2025-08-21,completed
+272,54,unleash innovative metrics,730021,2025-01-17,2025-06-04,cancelled
+273,122,streamline innovative e-business,131079,2023-10-27,2026-02-13,in progress
+274,129,architect extensible infrastructures,546279,2023-10-28,2025-06-15,completed
+275,5,deliver seamless schemas,261453,2024-12-22,2025-07-12,cancelled
+276,51,facilitate global action-items,870756,2023-07-20,2025-12-29,in progress
+277,19,deploy viral e-tailers,83502,2023-10-03,2025-11-15,cancelled
+278,142,matrix scalable deliverables,347722,2024-10-24,2025-12-27,in progress
+279,153,disintermediate end-to-end markets,849552,2024-11-25,2025-07-22,completed
+280,47,cultivate value-added action-items,855067,2024-11-20,2025-10-10,cancelled
+281,63,reinvent dot-com vortals,526804,2024-10-30,2025-08-05,in progress
+282,194,seize magnetic markets,827417,2024-04-20,2025-06-01,in progress
+283,140,synergize ubiquitous bandwidth,437231,2024-09-25,2025-05-30,in progress
+284,27,extend end-to-end e-services,30494,2025-02-05,2025-07-10,cancelled
+285,183,grow B2C initiatives,516769,2023-11-06,2025-12-29,cancelled
+286,119,expedite out-of-the-box e-business,45981,2023-10-13,2025-06-09,cancelled
+287,147,grow strategic web-readiness,914473,2024-12-22,2025-04-10,in progress
+288,65,morph user-centric relationships,679968,2024-12-04,2025-03-14,completed
+289,74,leverage next-generation platforms,727100,2024-09-16,2025-12-20,completed
+290,61,productize 24/365 interfaces,445817,2024-01-12,2025-06-18,completed
+291,98,reinvent front-end infrastructures,836471,2024-02-08,2025-04-14,in progress
+292,153,embrace cutting-edge web-readiness,668907,2023-07-23,2025-03-27,completed
+293,133,seize front-end relationships,614806,2024-12-20,2025-12-26,in progress
+294,198,monetize granular applications,728705,2023-04-23,2025-12-11,completed
+295,32,deploy transparent infrastructures,340378,2025-02-10,2025-07-28,cancelled
+296,80,re-intermediate cross-platform synergies,304986,2024-01-09,2025-10-26,cancelled
+297,8,enable turn-key communities,919572,2023-07-23,2025-09-12,completed
+298,139,e-enable revolutionary channels,19716,2024-05-11,2026-01-14,completed
+299,73,deploy global architectures,643977,2024-02-12,2026-02-16,completed
+300,46,transition robust technologies,51096,2024-05-29,2025-10-03,cancelled
+301,107,harness front-end users,413817,2024-09-25,2025-11-05,cancelled
+302,83,productize dot-com e-tailers,747913,2024-12-06,2025-06-01,cancelled
+303,50,enhance bleeding-edge technologies,371008,2023-10-04,2025-08-08,cancelled
+304,41,redefine best-of-breed platforms,357731,2024-08-10,2025-10-01,in progress
+305,148,orchestrate frictionless e-services,980743,2025-03-07,2025-09-23,in progress
+306,75,re-intermediate user-centric methodologies,878284,2023-07-17,2025-11-26,completed
+307,64,iterate 24/365 experiences,732060,2025-02-16,2025-09-14,cancelled
+308,190,productize efficient technologies,762837,2024-05-20,2025-07-23,completed
+309,87,envisioneer wireless info-mediaries,960544,2024-08-06,2025-09-12,completed
+310,28,redefine open-source deliverables,213962,2024-04-09,2025-09-29,cancelled
+311,118,engage robust interfaces,314449,2023-09-15,2025-09-22,cancelled
+312,98,utilize one-to-one supply-chains,212442,2024-03-02,2025-10-14,cancelled
+313,97,e-enable efficient solutions,758997,2024-02-28,2025-10-12,cancelled
+314,65,engage clicks-and-mortar e-services,886908,2024-08-01,2025-09-10,completed
+315,40,innovate 24/7 experiences,189753,2024-09-19,2025-05-30,cancelled
+316,100,leverage out-of-the-box portals,962191,2023-11-26,2025-12-04,in progress
+317,139,scale real-time methodologies,353601,2024-12-31,2025-09-02,completed
+318,76,visualize cross-media web services,463516,2023-06-09,2026-02-09,in progress
+319,184,harness turn-key e-business,95206,2023-08-02,2025-04-26,cancelled
+320,142,enhance vertical schemas,267911,2024-05-01,2026-02-15,cancelled
+321,97,enable plug-and-play deliverables,997994,2023-11-15,2025-04-13,in progress
+322,141,transform cross-media deliverables,68630,2023-10-23,2025-12-24,in progress
+323,159,enhance innovative portals,412634,2024-03-12,2025-05-08,completed
+324,61,architect plug-and-play methodologies,281831,2024-07-17,2025-04-12,cancelled
+325,93,aggregate out-of-the-box systems,62488,2024-08-28,2025-12-07,cancelled
+326,125,enable global e-commerce,999272,2024-09-27,2025-05-21,cancelled
+327,124,incubate wireless e-services,971895,2023-03-30,2025-10-21,in progress
+328,116,benchmark leading-edge synergies,480869,2024-06-04,2025-08-03,cancelled
+329,38,embrace compelling methodologies,952125,2024-09-09,2025-06-15,completed
+330,150,utilize cutting-edge eyeballs,530521,2024-06-22,2025-12-11,completed
+331,190,redefine 24/365 metrics,332385,2023-07-11,2026-02-16,in progress
+332,192,extend web-enabled e-services,543356,2024-08-28,2025-05-01,in progress
+333,49,leverage cutting-edge supply-chains,964554,2023-03-31,2025-08-27,completed
+334,98,seize customized functionalities,543061,2025-01-22,2025-09-04,in progress
+335,2,iterate customized infrastructures,993264,2023-06-17,2025-04-09,cancelled
+336,116,empower visionary technologies,804638,2023-09-05,2025-12-26,in progress
+337,146,iterate seamless methodologies,54930,2023-12-29,2025-03-20,cancelled
+338,158,enhance B2C markets,939221,2024-01-14,2026-01-03,completed
+339,72,optimize out-of-the-box content,848889,2025-01-12,2026-01-16,completed
+340,93,monetize interactive niches,408228,2024-12-13,2026-02-15,cancelled
+341,168,morph interactive metrics,749123,2025-01-14,2025-12-22,in progress
+342,16,engage extensible e-commerce,676863,2024-02-11,2026-01-29,in progress
+343,8,drive scalable niches,275780,2024-02-28,2025-12-09,completed
+344,176,leverage innovative vortals,673778,2023-10-20,2025-10-13,cancelled
+345,163,expedite magnetic bandwidth,768313,2024-05-20,2026-01-22,cancelled
+346,135,repurpose one-to-one e-tailers,84477,2025-01-21,2025-05-26,in progress
+347,37,disintermediate cutting-edge info-mediaries,776613,2024-10-04,2026-01-15,cancelled
+348,24,monetize cross-platform functionalities,951744,2024-06-09,2025-12-10,completed
+349,175,monetize front-end e-business,735095,2023-10-21,2025-10-16,cancelled
+350,42,monetize compelling ROI,464898,2024-02-26,2026-02-19,cancelled
+351,130,expedite distributed methodologies,585391,2023-04-06,2025-11-08,cancelled
+352,24,harness scalable niches,113630,2023-10-04,2025-09-11,in progress
+353,64,monetize killer content,84448,2024-08-27,2026-03-03,completed
+354,198,empower strategic ROI,720641,2024-12-04,2025-08-26,in progress
+355,9,envisioneer seamless interfaces,858447,2024-03-27,2026-01-30,cancelled
+356,194,transform proactive relationships,792126,2024-06-20,2025-08-23,completed
+357,196,expedite one-to-one initiatives,232313,2024-07-09,2025-08-10,cancelled
+358,68,maximize distributed technologies,27084,2023-08-09,2025-09-28,in progress
+359,67,synthesize bricks-and-clicks e-tailers,71443,2024-08-12,2025-09-14,in progress
+360,163,synergize killer e-commerce,318716,2024-12-07,2025-09-22,cancelled
+361,139,facilitate bricks-and-clicks niches,454801,2025-01-22,2025-06-15,in progress
+362,191,exploit impactful bandwidth,470000,2023-09-13,2025-07-21,cancelled
+363,175,extend rich e-services,890865,2024-08-24,2025-09-08,in progress
+364,113,aggregate customized networks,113616,2024-10-21,2025-10-15,cancelled
+365,19,re-contextualize 24/7 supply-chains,863034,2025-03-02,2025-11-06,cancelled
+366,10,grow strategic networks,867547,2024-10-09,2026-02-24,in progress
+367,49,orchestrate open-source infrastructures,821011,2023-11-11,2025-05-19,completed
+368,14,generate innovative content,303299,2024-04-03,2025-09-10,cancelled
+369,91,reinvent customized web-readiness,138275,2023-12-04,2025-05-22,completed
+370,119,leverage best-of-breed ROI,906268,2023-07-27,2025-09-16,in progress
+371,73,incubate end-to-end niches,691648,2024-04-03,2025-05-01,completed
+372,20,matrix value-added architectures,163164,2024-10-24,2025-06-14,completed
+373,75,empower one-to-one experiences,174814,2024-03-26,2025-03-27,cancelled
+374,154,leverage wireless partnerships,234111,2023-03-25,2025-08-21,in progress
+375,44,transition best-of-breed supply-chains,329031,2024-10-27,2025-11-27,in progress
+376,160,grow bleeding-edge mindshare,329946,2024-02-04,2025-10-16,completed
+377,18,exploit revolutionary relationships,862440,2023-10-10,2025-10-05,cancelled
+378,45,enable web-enabled e-business,233710,2024-10-14,2025-04-06,completed
+379,13,matrix best-of-breed methodologies,87850,2024-02-24,2025-05-07,in progress
+380,66,streamline distributed e-commerce,389731,2025-02-23,2025-09-18,cancelled
+381,130,visualize enterprise applications,594631,2024-07-18,2025-05-09,in progress
+382,12,synergize rich content,673104,2024-12-22,2025-05-04,in progress
+383,184,productize extensible vortals,782595,2024-06-27,2025-10-29,in progress
+384,140,integrate collaborative portals,83668,2024-05-05,2025-06-12,completed
+385,86,target global content,336014,2023-05-06,2025-03-23,in progress
+386,48,benchmark viral portals,250345,2024-05-21,2025-10-20,in progress
+387,96,engineer vertical niches,39583,2024-04-16,2025-11-25,completed
+388,75,empower scalable users,480162,2025-01-29,2025-10-05,cancelled
+389,63,optimize enterprise technologies,446705,2024-09-06,2025-12-25,completed
+390,116,incentivize bricks-and-clicks e-business,832267,2023-12-25,2025-04-07,completed
+391,135,scale scalable paradigms,269463,2025-03-04,2025-05-27,in progress
+392,120,empower synergistic eyeballs,334025,2024-10-17,2025-10-12,completed
+393,64,reinvent cross-platform networks,275825,2023-10-28,2025-09-09,completed
+394,126,engage back-end content,409823,2024-11-04,2025-05-17,in progress
+395,97,iterate strategic functionalities,45751,2023-04-14,2025-12-19,in progress
+396,41,redefine proactive e-business,873737,2025-02-11,2026-01-06,in progress
+397,139,cultivate magnetic markets,466546,2024-09-22,2026-03-01,completed
+398,28,incentivize frictionless models,44363,2023-06-27,2025-12-31,cancelled
+399,142,strategize turn-key relationships,562597,2023-12-11,2025-04-06,cancelled
+400,121,exploit e-business e-markets,360584,2023-11-25,2025-07-18,in progress
+401,140,revolutionize end-to-end models,625390,2023-06-11,2025-12-22,in progress
+402,72,unleash bricks-and-clicks niches,644287,2025-03-01,2025-11-14,cancelled
+403,192,drive B2B action-items,659925,2025-02-17,2025-10-11,in progress
+404,75,repurpose turn-key deliverables,206434,2023-08-18,2025-03-21,completed
+405,174,target impactful content,922447,2025-02-18,2025-08-25,in progress
+406,131,engage e-business vortals,255671,2025-02-13,2026-01-29,in progress
+407,34,innovate dot-com web-readiness,894889,2023-08-18,2026-02-01,in progress
+408,37,morph bricks-and-clicks functionalities,625747,2025-02-15,2025-12-26,completed
+409,91,streamline synergistic experiences,185931,2023-08-10,2025-10-17,cancelled
+410,7,maximize transparent markets,152122,2025-02-27,2025-04-02,in progress
+411,19,revolutionize scalable relationships,991311,2024-05-16,2025-10-31,cancelled
+412,9,scale 24/7 technologies,455186,2024-09-20,2026-02-02,in progress
+413,7,synthesize 24/7 solutions,985922,2023-10-13,2025-06-03,completed
+414,23,unleash wireless supply-chains,542989,2024-01-22,2025-10-02,completed
+415,36,deliver synergistic technologies,406297,2023-12-01,2025-03-14,cancelled
+416,197,leverage value-added mindshare,708052,2024-02-23,2026-01-26,completed
+417,42,re-intermediate global web services,349930,2024-11-04,2026-02-21,completed
+418,126,strategize frictionless communities,268612,2023-03-19,2025-06-15,cancelled
+419,189,whiteboard mission-critical e-commerce,446715,2024-01-25,2025-07-13,completed
+420,81,engage distributed niches,135319,2023-08-16,2025-11-23,cancelled
+421,27,enable mission-critical content,772936,2024-03-08,2025-11-11,cancelled
+422,143,scale one-to-one methodologies,713631,2024-05-09,2026-02-27,in progress
+423,39,architect ubiquitous content,829539,2023-12-15,2025-04-26,cancelled
+424,81,enhance seamless e-tailers,188567,2023-07-16,2025-12-26,cancelled
+425,47,disintermediate customized applications,991855,2025-01-06,2025-08-13,cancelled
+426,66,engage revolutionary web services,390688,2024-03-02,2025-04-06,cancelled
+427,142,streamline web-enabled e-tailers,480036,2024-08-26,2025-06-21,completed
+428,33,extend impactful eyeballs,869765,2023-05-31,2025-05-05,completed
+429,129,disintermediate transparent experiences,978645,2023-10-24,2025-06-04,cancelled
+430,103,integrate robust users,139407,2023-11-07,2026-02-23,cancelled
+431,98,engineer global e-business,502493,2024-08-09,2025-08-20,in progress
+432,129,deploy turn-key communities,851300,2023-12-23,2025-03-28,in progress
+433,64,unleash B2B infrastructures,335209,2024-01-02,2025-11-25,cancelled
+434,111,iterate vertical interfaces,800108,2023-12-01,2025-10-06,cancelled
+435,18,seize virtual methodologies,476683,2024-03-26,2025-05-24,cancelled
+436,158,visualize cross-media content,950047,2024-04-30,2025-10-06,cancelled
+437,42,visualize turn-key info-mediaries,372421,2023-05-18,2026-01-27,in progress
+438,155,benchmark extensible schemas,678362,2024-06-08,2025-04-12,cancelled
+439,50,brand B2C metrics,76591,2024-09-10,2025-05-21,in progress
+440,129,morph compelling bandwidth,584082,2023-08-08,2026-01-09,cancelled
+441,155,evolve wireless interfaces,321280,2024-12-22,2025-09-17,cancelled
+442,110,reinvent clicks-and-mortar eyeballs,796658,2023-11-04,2025-04-09,completed
+443,131,monetize dynamic paradigms,168166,2024-12-03,2025-05-15,in progress
+444,27,matrix compelling metrics,876162,2024-02-08,2025-12-01,in progress
+445,96,streamline efficient methodologies,484417,2024-10-02,2025-08-06,completed
+446,131,embrace rich convergence,505489,2025-02-13,2025-08-12,completed
+447,174,architect interactive markets,575586,2024-11-30,2026-02-06,completed
+448,53,envisioneer seamless niches,335782,2024-12-31,2026-03-09,cancelled
+449,199,streamline granular schemas,472349,2025-02-18,2025-08-10,in progress
+450,187,re-contextualize turn-key markets,671322,2023-03-27,2026-01-19,cancelled
+451,136,streamline world-class synergies,101771,2023-10-22,2025-04-22,cancelled
+452,146,harness dynamic supply-chains,882402,2024-02-26,2026-02-23,cancelled
+453,126,cultivate transparent info-mediaries,871957,2024-11-21,2025-09-25,in progress
+454,23,synthesize bleeding-edge ROI,664074,2025-02-19,2025-07-19,cancelled
+455,180,orchestrate compelling e-business,709522,2024-11-02,2025-10-20,cancelled
+456,140,engineer cross-media partnerships,728986,2023-08-27,2026-01-27,cancelled
+457,24,mesh strategic channels,622144,2023-06-14,2026-02-06,completed
+458,2,morph strategic synergies,435227,2023-11-19,2026-02-03,cancelled
+459,160,facilitate integrated info-mediaries,428999,2024-02-27,2025-08-03,completed
+460,103,incentivize virtual interfaces,490903,2023-07-22,2025-08-19,in progress
+461,117,brand one-to-one bandwidth,530368,2023-09-15,2025-07-15,cancelled
+462,176,engineer viral partnerships,987589,2023-10-04,2025-09-24,in progress
+463,132,synergize integrated metrics,409851,2023-12-10,2025-07-10,cancelled
+464,6,iterate holistic e-services,635965,2024-11-16,2025-04-07,in progress
+465,39,expedite proactive niches,20939,2024-12-25,2025-10-03,cancelled
+466,115,architect bleeding-edge e-tailers,201403,2024-06-08,2025-11-02,completed
+467,136,monetize interactive interfaces,332309,2024-02-17,2025-05-25,in progress
+468,50,monetize enterprise technologies,769183,2023-03-16,2025-04-03,cancelled
+469,10,matrix bleeding-edge info-mediaries,850470,2025-03-10,2025-12-16,completed
+470,152,utilize B2C supply-chains,829184,2024-11-17,2025-08-19,in progress
+471,56,expedite sticky users,516944,2024-01-24,2025-09-15,cancelled
+472,41,re-intermediate virtual e-tailers,117608,2024-07-24,2025-03-15,in progress
+473,73,enhance interactive interfaces,225058,2023-09-15,2025-05-26,in progress
+474,27,evolve plug-and-play markets,109481,2024-09-09,2025-07-24,in progress
+475,70,engineer cutting-edge ROI,916499,2024-03-19,2025-09-01,cancelled
+476,153,e-enable granular paradigms,659713,2023-11-27,2025-09-09,completed
+477,183,transform visionary mindshare,593475,2024-07-29,2025-04-06,completed
+478,113,innovate world-class solutions,125400,2024-04-23,2025-10-20,completed
+479,128,benchmark robust functionalities,120411,2024-04-13,2025-06-28,completed
+480,10,implement value-added e-services,723902,2024-12-12,2025-03-26,in progress
+481,194,orchestrate cross-media eyeballs,137426,2024-09-25,2025-09-12,cancelled
+482,63,transition vertical mindshare,634873,2024-12-07,2025-05-26,completed
+483,32,engineer revolutionary schemas,691119,2023-09-26,2025-05-14,in progress
+484,180,harness B2C infrastructures,751155,2024-06-19,2026-01-13,cancelled
+485,32,repurpose virtual ROI,871786,2023-03-12,2025-09-03,in progress
+486,118,synthesize global content,370248,2024-04-18,2025-09-03,in progress
+487,54,re-intermediate extensible portals,319162,2023-12-19,2025-08-20,cancelled
+488,23,optimize frictionless synergies,699744,2023-06-26,2025-07-03,in progress
+489,164,transform frictionless web services,886352,2024-10-26,2025-07-29,cancelled
+490,107,incentivize B2B eyeballs,273955,2024-03-17,2025-11-14,cancelled
+491,36,transform customized e-markets,900967,2024-10-27,2025-07-13,in progress
+492,157,benchmark magnetic experiences,334022,2025-02-23,2025-12-30,completed
+493,39,enhance best-of-breed schemas,64334,2023-07-06,2025-10-14,cancelled
+494,172,scale web-enabled architectures,856173,2024-08-15,2025-05-24,in progress
+495,21,facilitate magnetic deliverables,448041,2024-11-04,2026-01-02,cancelled
+496,53,aggregate web-enabled e-services,93481,2024-09-20,2025-10-18,completed
+497,28,aggregate clicks-and-mortar channels,925561,2024-08-18,2026-02-05,completed
+498,77,re-contextualize end-to-end applications,794009,2025-02-07,2025-04-17,in progress
+499,91,leverage seamless markets,35296,2023-11-30,2025-09-25,completed
+500,178,monetize interactive supply-chains,550973,2024-07-16,2025-08-06,in progress
